@@ -1,0 +1,10 @@
+{
+  "name": "chess-analytics-dashboard",
+  "private": true,
+  "scripts": {
+    "install": "npm --prefix frontend install",
+    "start": "npm --prefix frontend run start",
+    "build": "npm --prefix frontend run build",
+    "test": "npm --prefix frontend run test"
+  }
+}
