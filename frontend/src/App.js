@@ -63,7 +63,7 @@ export default function App() {
     { name: "Draws", value: stats.metadata.draws, fill: "#64748b" },
   ];
 
-  // Inline CSS styling objects for clean layout distribution without external framework bloat
+ 
   const styles = {
     container: {
       minHeight: "100vh",
@@ -129,11 +129,10 @@ export default function App() {
         <p style={styles.subtitle}>
           This is how good is{" "}
           <strong>{stats.metadata.username}</strong>
-           {" "} at chess 
+           {" "} at chess.
         </p>
       </header>
 
-      {/* KPI Numerical Summary Grid */}
       <div style={styles.grid}>
         <div style={styles.card}>
           <p style={styles.cardLabel}>Total Scale</p>
