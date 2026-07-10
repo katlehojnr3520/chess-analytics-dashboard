@@ -1,0 +1,24 @@
+{
+    "metadata": {
+        "username": "modisee",
+        "total_games": 202,
+        "wins": 86,
+        "losses": 106,
+        "draws": 10,
+        "win_rate_percentage": 42.6,
+        "main_format": "bullet"
+    },
+    "ratings": {
+        "blitz_avg": 0,
+        "rapid_avg": 332,
+        "bullet_avg": 0
+    },
+    "openings": [
+        {
+            "opening": "Unknown Opening",
+            "total_games": 202,
+            "win_rate_percentage": 42.6
+        }
+    ],
+    "history": []
+}
